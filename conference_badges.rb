@@ -22,5 +22,8 @@ def printer(badRooms)
   badges.each do |both|
     puts both
   end
+  room_assignments.each do |boths|
+    puts boths
+  end
 end
 # Write your code here.
