@@ -19,6 +19,8 @@ def assign_rooms(speakers)
 end
 
 def printer(badRooms)
-  
+  badges.each do |both|
+    puts both
+  end
 end
 # Write your code here.
